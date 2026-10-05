@@ -22,7 +22,7 @@ An interactive end-to-end data analytics project built using **Microsoft Excel**
 ## 📸 Dashboard Screenshots
 
 ### 1. Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](Screenshot 2026-10-05 213119.png)
 
 ### 2. Customer Performance & Sales Analytics
 ![Customer Analytics](screenshots/customer_analytics.png)
