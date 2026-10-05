@@ -22,16 +22,17 @@ An interactive end-to-end data analytics project built using **Microsoft Excel**
 ## 📸 Dashboard Screenshots
 
 ### 1. Sales Overview
-![Sales Overview](C:\Users\DAR-K\Pictures\Screenshots)
+![Sales Overview](<img width="1857" height="731" alt="Screenshot 2026-10-05 213119" src="https://github.com/user-attachments/assets/c2dc1867-c87f-42c6-9359-4cb786e7ce6a" />)
 
 ### 2. Customer Performance & Sales Analytics
-![Customer Analytics](screenshots/customer_analytics.png)
+![Customer Analytics](<img width="1876" height="760" alt="Screenshot 2026-10-05 213157" src="https://github.com/user-attachments/assets/e45e7986-65e2-45f3-9830-046a2140a846" />
+)
 
 ### 3. Products & Sellers Analytics
-![Products & Sellers Analytics](screenshots/products_sellers.png)
+![Products & Sellers Analytics](<img width="1782" height="725" alt="Screenshot 2026-10-05 213239" src="https://github.com/user-attachments/assets/44bd8e2d-0456-4c0e-9a97-4e13f9b86f3c" />)
 
 ### 4. Payments Analysis
-![Payments Analysis](screenshots/payments_analysis.png)
+![Payments Analysis](<img width="1857" height="757" alt="Screenshot 2026-10-05 213305" src="https://github.com/user-attachments/assets/2acfb2c3-6ab7-4ab9-bbb7-33627e58d926" />)
 
 ---
 
