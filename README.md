@@ -22,7 +22,8 @@ An interactive end-to-end data analytics project built using **Microsoft Excel**
 ## 📸 Dashboard Screenshots
 
 ### 1. Sales Overview
-![Sales Overview](<img width="1857" height="731" alt="Screenshot 2026-10-05 213119" src="https://github.com/user-attachments/assets/c2dc1867-c87f-42c6-9359-4cb786e7ce6a" />)
+![Sales Overview](<img width="1857" height="731" alt="Screenshot 2026-10-05 213119" src="https://github.com/user-attachments/assets/9cf5394a-f751-4040-8bec-c4993532fefd" />
+)
 
 ### 2. Customer Performance & Sales Analytics
 ![Customer Analytics](<img width="1876" height="760" alt="Screenshot 2026-10-05 213157" src="https://github.com/user-attachments/assets/e45e7986-65e2-45f3-9830-046a2140a846" />
